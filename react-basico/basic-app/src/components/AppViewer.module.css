@@ -1,5 +1,14 @@
-.avContainer{
+.avRed{
     margin: 0;
     padding: 0;
     width: auto;
+    font-size: 35px;
+    color: red;
+}
+.avBlue{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 35px;
+    color: blue;
 }
