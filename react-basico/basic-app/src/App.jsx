@@ -9,8 +9,13 @@ function App() {
 
   return (
 <>
+<<<<<<< HEAD
 <h1>Meu Primeiro Web Aplication</h1>
 <AppViewer />
+=======
+ <h1>Meu primeiro WebApp</h1>
+ <AppViewer />
+>>>>>>> f1699e6261a0c2d5ae4cb6cd6b2344ab46007aff
 </>
   )
 }

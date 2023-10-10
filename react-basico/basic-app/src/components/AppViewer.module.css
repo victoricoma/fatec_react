@@ -1,5 +1,21 @@
+<<<<<<< HEAD
 .avContainer{
     margin:0;
     padding:0;
     width: auto;
+=======
+.avRed{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 35px;
+    color: red;
+}
+.avBlue{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    font-size: 35px;
+    color: blue;
+>>>>>>> f1699e6261a0c2d5ae4cb6cd6b2344ab46007aff
 }
